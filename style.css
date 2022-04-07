@@ -1,0 +1,4 @@
+table,tr,th,td{
+    border-style:groove;
+    border-collapse: collapse;
+}
